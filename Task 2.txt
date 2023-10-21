@@ -1,0 +1,12 @@
+Task 2
+STEP 1: Create an array variable myArray
+STEP 2: Input unsorted values into the myArray variable
+STEP 3: Create a nested loop
+       i. The Outer loop starts iterating from the first index of the myArray.
+       ii. The inner loop checks if the previous value is greater than the current value.
+       iii. As long as the condition above remains true we want to swap the current value with the previous value 
+       and we also want to update the current value in the inner loop so we can compare that value with other 
+       elements at index postion that is greater than or equal to zero.
+       iv. If the updated current value remains less than the previous value, Repeat step 3iii.
+STEP 4: Exit the loop
+STEP 5: Print out the value of myArray.

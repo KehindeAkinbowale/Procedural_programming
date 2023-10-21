@@ -1,0 +1,7 @@
+Task 1
+STEP 1: Declare a function called dot_product which accepts two parameters (v1 and v2).
+STEP 2: Declare and assign the variable ps to be the product of v1 and v2.
+STEP 3: Check if variable ps is equal to zero.
+STEP 4: If Step 3 evaluates to true, prints orthogonal vectors to the output otherwise move to step 5
+STEP 5: Return variable ps
+STEP 6: Exit the function
